@@ -119,7 +119,7 @@ route add <Netz-ID> MASK <Netzmaske> <Gateway>
 
 Beispiel:
 ```
-route add 192.168.10.0(enp0s8 vom Client) MASK 255.255.255.0 192.168.0.201
+route add 192.168.10.0(Netz-ID) MASK 255.255.255.0 192.168.0.201 (enp0s3 vom Router)
 ```
 
 Nun ist auch die Node erreichebar.
