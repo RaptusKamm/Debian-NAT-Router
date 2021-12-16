@@ -83,7 +83,7 @@ In der Installation wird beretis gefragt, ob die IP Konfguration von IPv4 und IP
 
  
 
-Konfiguration der Nodes
+# Konfiguration der Nodes
 
 Die Nodes müssen noch auf das erstellte Netz vom Master eingestellt werden. Dafür bearbeitet man die Datei: interfaces
 ```
